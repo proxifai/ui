@@ -30,19 +30,19 @@
   --color-brand-secondary: #8b5cf6;
   --color-brand-secondary-hover: #7c3aed;
 
-  /* Semantic Colors */
-  --color-success: #22c55e;
-  --color-success-light: #4ade80;
-  --color-success-bg: rgba(34, 197, 94, 0.1);
-  --color-warning: #f59e0b;
-  --color-warning-light: #fbbf24;
-  --color-warning-bg: rgba(245, 158, 11, 0.1);
-  --color-error: #ef4444;
-  --color-error-light: #f87171;
-  --color-error-bg: rgba(239, 68, 68, 0.1);
-  --color-info: #3b82f6;
-  --color-info-light: #60a5fa;
-  --color-info-bg: rgba(59, 130, 246, 0.1);
+  /* Semantic Colors (use --status-* prefix to avoid Tailwind --color-* namespace clash) */
+  --status-success: #22c55e;
+  --status-success-light: #4ade80;
+  --status-success-bg: rgba(34, 197, 94, 0.1);
+  --status-warning: #f59e0b;
+  --status-warning-light: #fbbf24;
+  --status-warning-bg: rgba(245, 158, 11, 0.1);
+  --status-error: #ef4444;
+  --status-error-light: #f87171;
+  --status-error-bg: rgba(239, 68, 68, 0.1);
+  --status-info: #3b82f6;
+  --status-info-light: #60a5fa;
+  --status-info-bg: rgba(59, 130, 246, 0.1);
 
   /* Border Radius */
   --radius: 0.5rem;
@@ -105,8 +105,8 @@
   --muted: var(--color-zinc-100);
   --muted-foreground: var(--color-zinc-500);
 
-  --destructive: var(--color-error);
-  --destructive-hover: var(--color-error-light);
+  --destructive: var(--status-error);
+  --destructive-hover: var(--status-error-light);
   --destructive-foreground: var(--color-white);
 
   --ring: var(--color-zinc-400);
@@ -178,8 +178,8 @@
   --muted: var(--color-zinc-800);
   --muted-foreground: var(--color-zinc-400);
 
-  --destructive: var(--color-error);
-  --destructive-hover: var(--color-error-light);
+  --destructive: var(--status-error);
+  --destructive-hover: var(--status-error-light);
   --destructive-foreground: var(--color-white);
 
   --ring: var(--color-zinc-400);

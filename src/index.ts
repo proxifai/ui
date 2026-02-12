@@ -1,5 +1,39 @@
 // Utilities
 export { cn } from "./lib/utils"
+export { formatDate, formatRelativeDate } from "./lib/format"
+
+// Hooks
+export { useIsMobile } from "./hooks/use-is-mobile"
+
+// Theme
+export {
+  ThemeProvider,
+  useTheme,
+  useThemeSafe,
+  ThemeContext,
+} from "./components/theme-provider"
+export type { Theme } from "./components/theme-provider"
+export { ThemeToggle } from "./components/theme-toggle"
+
+// Sidebar
+export {
+  SidebarProvider,
+  useSidebar,
+  SidebarContext,
+} from "./components/sidebar-provider"
+export type { SidebarContextType } from "./components/sidebar-provider"
+
+// Navigation
+export { NavItem } from "./components/nav-item"
+export type { NavItemProps } from "./components/nav-item"
+export { NavSection } from "./components/nav-section"
+export type { NavSectionProps } from "./components/nav-section"
+export { CollapsibleSection } from "./components/collapsible-section"
+export type { CollapsibleSectionProps } from "./components/collapsible-section"
+
+// Status
+export { StatusBadge } from "./components/status-badge"
+export type { StatusBadgeProps, StatusConfig } from "./components/status-badge"
 
 // Components
 export {

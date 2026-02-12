@@ -1,0 +1,1023 @@
+{
+  "about": {
+    "homepage": "https://www.ladle.dev",
+    "github": "https://github.com/tajo/ladle",
+    "version": 1
+  },
+  "stories": {
+    "components--avatar--default": {
+      "name": "Default",
+      "levels": [
+        "Components",
+        "Avatar"
+      ],
+      "locStart": 12,
+      "locEnd": 17,
+      "filePath": "src/stories/avatar.stories.tsx",
+      "namedExport": "Default",
+      "meta": {}
+    },
+    "components--avatar--fallback": {
+      "name": "Fallback",
+      "levels": [
+        "Components",
+        "Avatar"
+      ],
+      "locStart": 19,
+      "locEnd": 24,
+      "filePath": "src/stories/avatar.stories.tsx",
+      "namedExport": "Fallback",
+      "meta": {}
+    },
+    "components--avatar--group": {
+      "name": "Group",
+      "levels": [
+        "Components",
+        "Avatar"
+      ],
+      "locStart": 40,
+      "locEnd": 56,
+      "filePath": "src/stories/avatar.stories.tsx",
+      "namedExport": "Group",
+      "meta": {}
+    },
+    "components--avatar--sizes": {
+      "name": "Sizes",
+      "levels": [
+        "Components",
+        "Avatar"
+      ],
+      "locStart": 26,
+      "locEnd": 38,
+      "filePath": "src/stories/avatar.stories.tsx",
+      "namedExport": "Sizes",
+      "meta": {}
+    },
+    "components--badge--as-link": {
+      "name": "As link",
+      "levels": [
+        "Components",
+        "Badge"
+      ],
+      "locStart": 22,
+      "locEnd": 26,
+      "filePath": "src/stories/badge.stories.tsx",
+      "namedExport": "AsLink",
+      "meta": {}
+    },
+    "components--badge--default": {
+      "name": "Default",
+      "levels": [
+        "Components",
+        "Badge"
+      ],
+      "locStart": 6,
+      "locEnd": 6,
+      "filePath": "src/stories/badge.stories.tsx",
+      "namedExport": "Default",
+      "meta": {}
+    },
+    "components--badge--variants": {
+      "name": "Variants",
+      "levels": [
+        "Components",
+        "Badge"
+      ],
+      "locStart": 8,
+      "locEnd": 20,
+      "filePath": "src/stories/badge.stories.tsx",
+      "namedExport": "Variants",
+      "meta": {}
+    },
+    "components--button--as-child": {
+      "name": "As child",
+      "levels": [
+        "Components",
+        "Button"
+      ],
+      "locStart": 61,
+      "locEnd": 65,
+      "filePath": "src/stories/button.stories.tsx",
+      "namedExport": "AsChild",
+      "meta": {}
+    },
+    "components--button--default": {
+      "name": "Default",
+      "levels": [
+        "Components",
+        "Button"
+      ],
+      "locStart": 7,
+      "locEnd": 7,
+      "filePath": "src/stories/button.stories.tsx",
+      "namedExport": "Default",
+      "meta": {}
+    },
+    "components--button--disabled": {
+      "name": "Disabled",
+      "levels": [
+        "Components",
+        "Button"
+      ],
+      "locStart": 52,
+      "locEnd": 59,
+      "filePath": "src/stories/button.stories.tsx",
+      "namedExport": "Disabled",
+      "meta": {}
+    },
+    "components--button--icon-sizes": {
+      "name": "Icon sizes",
+      "levels": [
+        "Components",
+        "Button"
+      ],
+      "locStart": 29,
+      "locEnd": 36,
+      "filePath": "src/stories/button.stories.tsx",
+      "namedExport": "IconSizes",
+      "meta": {}
+    },
+    "components--button--loading": {
+      "name": "Loading",
+      "levels": [
+        "Components",
+        "Button"
+      ],
+      "locStart": 45,
+      "locEnd": 50,
+      "filePath": "src/stories/button.stories.tsx",
+      "namedExport": "Loading",
+      "meta": {}
+    },
+    "components--button--sizes": {
+      "name": "Sizes",
+      "levels": [
+        "Components",
+        "Button"
+      ],
+      "locStart": 20,
+      "locEnd": 27,
+      "filePath": "src/stories/button.stories.tsx",
+      "namedExport": "Sizes",
+      "meta": {}
+    },
+    "components--button--variants": {
+      "name": "Variants",
+      "levels": [
+        "Components",
+        "Button"
+      ],
+      "locStart": 9,
+      "locEnd": 18,
+      "filePath": "src/stories/button.stories.tsx",
+      "namedExport": "Variants",
+      "meta": {}
+    },
+    "components--button--with-icon": {
+      "name": "With icon",
+      "levels": [
+        "Components",
+        "Button"
+      ],
+      "locStart": 38,
+      "locEnd": 43,
+      "filePath": "src/stories/button.stories.tsx",
+      "namedExport": "WithIcon",
+      "meta": {}
+    },
+    "components--card--default": {
+      "name": "Default",
+      "levels": [
+        "Components",
+        "Card"
+      ],
+      "locStart": 17,
+      "locEnd": 36,
+      "filePath": "src/stories/card.stories.tsx",
+      "namedExport": "Default",
+      "meta": {}
+    },
+    "components--card--simple": {
+      "name": "Simple",
+      "levels": [
+        "Components",
+        "Card"
+      ],
+      "locStart": 55,
+      "locEnd": 65,
+      "filePath": "src/stories/card.stories.tsx",
+      "namedExport": "Simple",
+      "meta": {}
+    },
+    "components--card--with-action": {
+      "name": "With action",
+      "levels": [
+        "Components",
+        "Card"
+      ],
+      "locStart": 38,
+      "locEnd": 53,
+      "filePath": "src/stories/card.stories.tsx",
+      "namedExport": "WithAction",
+      "meta": {}
+    },
+    "navigation--collapsiblesection--default": {
+      "name": "Default",
+      "levels": [
+        "Navigation",
+        "Collapsiblesection"
+      ],
+      "locStart": 7,
+      "locEnd": 26,
+      "filePath": "src/stories/collapsible-section.stories.tsx",
+      "namedExport": "Default",
+      "meta": {}
+    },
+    "navigation--collapsiblesection--no-link": {
+      "name": "No link",
+      "levels": [
+        "Navigation",
+        "Collapsiblesection"
+      ],
+      "locStart": 56,
+      "locEnd": 64,
+      "filePath": "src/stories/collapsible-section.stories.tsx",
+      "namedExport": "NoLink",
+      "meta": {}
+    },
+    "navigation--collapsiblesection--start-collapsed": {
+      "name": "Start collapsed",
+      "levels": [
+        "Navigation",
+        "Collapsiblesection"
+      ],
+      "locStart": 42,
+      "locEnd": 54,
+      "filePath": "src/stories/collapsible-section.stories.tsx",
+      "namedExport": "StartCollapsed",
+      "meta": {}
+    },
+    "navigation--collapsiblesection--with-add": {
+      "name": "With add",
+      "levels": [
+        "Navigation",
+        "Collapsiblesection"
+      ],
+      "locStart": 28,
+      "locEnd": 40,
+      "filePath": "src/stories/collapsible-section.stories.tsx",
+      "namedExport": "WithAdd",
+      "meta": {}
+    },
+    "components--dialog--default": {
+      "name": "Default",
+      "levels": [
+        "Components",
+        "Dialog"
+      ],
+      "locStart": 18,
+      "locEnd": 48,
+      "filePath": "src/stories/dialog.stories.tsx",
+      "namedExport": "Default",
+      "meta": {}
+    },
+    "components--dialog--no-close-button": {
+      "name": "No close button",
+      "levels": [
+        "Components",
+        "Dialog"
+      ],
+      "locStart": 50,
+      "locEnd": 68,
+      "filePath": "src/stories/dialog.stories.tsx",
+      "namedExport": "NoCloseButton",
+      "meta": {}
+    },
+    "components--dropdownmenu--default": {
+      "name": "Default",
+      "levels": [
+        "Components",
+        "Dropdownmenu"
+      ],
+      "locStart": 22,
+      "locEnd": 39,
+      "filePath": "src/stories/dropdown-menu.stories.tsx",
+      "namedExport": "Default",
+      "meta": {}
+    },
+    "components--dropdownmenu--with-checkboxes": {
+      "name": "With checkboxes",
+      "levels": [
+        "Components",
+        "Dropdownmenu"
+      ],
+      "locStart": 41,
+      "locEnd": 68,
+      "filePath": "src/stories/dropdown-menu.stories.tsx",
+      "namedExport": "WithCheckboxes",
+      "meta": {}
+    },
+    "components--dropdownmenu--with-submenu": {
+      "name": "With submenu",
+      "levels": [
+        "Components",
+        "Dropdownmenu"
+      ],
+      "locStart": 70,
+      "locEnd": 88,
+      "filePath": "src/stories/dropdown-menu.stories.tsx",
+      "namedExport": "WithSubmenu",
+      "meta": {}
+    },
+    "components--input--default": {
+      "name": "Default",
+      "levels": [
+        "Components",
+        "Input"
+      ],
+      "locStart": 7,
+      "locEnd": 7,
+      "filePath": "src/stories/input.stories.tsx",
+      "namedExport": "Default",
+      "meta": {}
+    },
+    "components--input--disabled": {
+      "name": "Disabled",
+      "levels": [
+        "Components",
+        "Input"
+      ],
+      "locStart": 16,
+      "locEnd": 18,
+      "filePath": "src/stories/input.stories.tsx",
+      "namedExport": "Disabled",
+      "meta": {}
+    },
+    "components--input--file-input": {
+      "name": "File input",
+      "levels": [
+        "Components",
+        "Input"
+      ],
+      "locStart": 20,
+      "locEnd": 25,
+      "filePath": "src/stories/input.stories.tsx",
+      "namedExport": "FileInput",
+      "meta": {}
+    },
+    "components--input--invalid": {
+      "name": "Invalid",
+      "levels": [
+        "Components",
+        "Input"
+      ],
+      "locStart": 27,
+      "locEnd": 29,
+      "filePath": "src/stories/input.stories.tsx",
+      "namedExport": "Invalid",
+      "meta": {}
+    },
+    "components--input--with-label": {
+      "name": "With label",
+      "levels": [
+        "Components",
+        "Input"
+      ],
+      "locStart": 9,
+      "locEnd": 14,
+      "filePath": "src/stories/input.stories.tsx",
+      "namedExport": "WithLabel",
+      "meta": {}
+    },
+    "components--label--default": {
+      "name": "Default",
+      "levels": [
+        "Components",
+        "Label"
+      ],
+      "locStart": 8,
+      "locEnd": 13,
+      "filePath": "src/stories/label.stories.tsx",
+      "namedExport": "Default",
+      "meta": {}
+    },
+    "components--label--with-switch": {
+      "name": "With switch",
+      "levels": [
+        "Components",
+        "Label"
+      ],
+      "locStart": 15,
+      "locEnd": 20,
+      "filePath": "src/stories/label.stories.tsx",
+      "namedExport": "WithSwitch",
+      "meta": {}
+    },
+    "navigation--navitem--collapsed": {
+      "name": "Collapsed",
+      "levels": [
+        "Navigation",
+        "Navitem"
+      ],
+      "locStart": 23,
+      "locEnd": 29,
+      "filePath": "src/stories/nav-item.stories.tsx",
+      "namedExport": "Collapsed",
+      "meta": {}
+    },
+    "navigation--navitem--default": {
+      "name": "Default",
+      "levels": [
+        "Navigation",
+        "Navitem"
+      ],
+      "locStart": 7,
+      "locEnd": 13,
+      "filePath": "src/stories/nav-item.stories.tsx",
+      "namedExport": "Default",
+      "meta": {}
+    },
+    "navigation--navitem--external": {
+      "name": "External",
+      "levels": [
+        "Navigation",
+        "Navitem"
+      ],
+      "locStart": 31,
+      "locEnd": 35,
+      "filePath": "src/stories/nav-item.stories.tsx",
+      "namedExport": "External",
+      "meta": {}
+    },
+    "navigation--navitem--icon-color": {
+      "name": "Icon color",
+      "levels": [
+        "Navigation",
+        "Navitem"
+      ],
+      "locStart": 46,
+      "locEnd": 52,
+      "filePath": "src/stories/nav-item.stories.tsx",
+      "namedExport": "IconColor",
+      "meta": {}
+    },
+    "navigation--navitem--with-count": {
+      "name": "With count",
+      "levels": [
+        "Navigation",
+        "Navitem"
+      ],
+      "locStart": 15,
+      "locEnd": 21,
+      "filePath": "src/stories/nav-item.stories.tsx",
+      "namedExport": "WithCount",
+      "meta": {}
+    },
+    "navigation--navitem--with-indent": {
+      "name": "With indent",
+      "levels": [
+        "Navigation",
+        "Navitem"
+      ],
+      "locStart": 37,
+      "locEnd": 44,
+      "filePath": "src/stories/nav-item.stories.tsx",
+      "namedExport": "WithIndent",
+      "meta": {}
+    },
+    "navigation--navsection--default": {
+      "name": "Default",
+      "levels": [
+        "Navigation",
+        "Navsection"
+      ],
+      "locStart": 9,
+      "locEnd": 17,
+      "filePath": "src/stories/nav-section.stories.tsx",
+      "namedExport": "Default",
+      "meta": {}
+    },
+    "navigation--navsection--default-collapsed": {
+      "name": "Default collapsed",
+      "levels": [
+        "Navigation",
+        "Navsection"
+      ],
+      "locStart": 36,
+      "locEnd": 45,
+      "filePath": "src/stories/nav-section.stories.tsx",
+      "namedExport": "DefaultCollapsed",
+      "meta": {}
+    },
+    "navigation--navsection--non-collapsible": {
+      "name": "Non collapsible",
+      "levels": [
+        "Navigation",
+        "Navsection"
+      ],
+      "locStart": 47,
+      "locEnd": 54,
+      "filePath": "src/stories/nav-section.stories.tsx",
+      "namedExport": "NonCollapsible",
+      "meta": {}
+    },
+    "navigation--navsection--sidebar-collapsed": {
+      "name": "Sidebar collapsed",
+      "levels": [
+        "Navigation",
+        "Navsection"
+      ],
+      "locStart": 56,
+      "locEnd": 63,
+      "filePath": "src/stories/nav-section.stories.tsx",
+      "namedExport": "SidebarCollapsed",
+      "meta": {}
+    },
+    "navigation--navsection--with-action": {
+      "name": "With action",
+      "levels": [
+        "Navigation",
+        "Navsection"
+      ],
+      "locStart": 19,
+      "locEnd": 34,
+      "filePath": "src/stories/nav-section.stories.tsx",
+      "namedExport": "WithAction",
+      "meta": {}
+    },
+    "components--popover--default": {
+      "name": "Default",
+      "levels": [
+        "Components",
+        "Popover"
+      ],
+      "locStart": 13,
+      "locEnd": 39,
+      "filePath": "src/stories/popover.stories.tsx",
+      "namedExport": "Default",
+      "meta": {}
+    },
+    "components--scrollarea--horizontal": {
+      "name": "Horizontal",
+      "levels": [
+        "Components",
+        "Scrollarea"
+      ],
+      "locStart": 23,
+      "locEnd": 37,
+      "filePath": "src/stories/scroll-area.stories.tsx",
+      "namedExport": "Horizontal",
+      "meta": {}
+    },
+    "components--scrollarea--vertical": {
+      "name": "Vertical",
+      "levels": [
+        "Components",
+        "Scrollarea"
+      ],
+      "locStart": 9,
+      "locEnd": 21,
+      "filePath": "src/stories/scroll-area.stories.tsx",
+      "namedExport": "Vertical",
+      "meta": {}
+    },
+    "components--select--default": {
+      "name": "Default",
+      "levels": [
+        "Components",
+        "Select"
+      ],
+      "locStart": 16,
+      "locEnd": 30,
+      "filePath": "src/stories/select.stories.tsx",
+      "namedExport": "Default",
+      "meta": {}
+    },
+    "components--select--disabled": {
+      "name": "Disabled",
+      "levels": [
+        "Components",
+        "Select"
+      ],
+      "locStart": 87,
+      "locEnd": 98,
+      "filePath": "src/stories/select.stories.tsx",
+      "namedExport": "Disabled",
+      "meta": {}
+    },
+    "components--select--grouped": {
+      "name": "Grouped",
+      "levels": [
+        "Components",
+        "Select"
+      ],
+      "locStart": 49,
+      "locEnd": 71,
+      "filePath": "src/stories/select.stories.tsx",
+      "namedExport": "Grouped",
+      "meta": {}
+    },
+    "components--select--small-size": {
+      "name": "Small size",
+      "levels": [
+        "Components",
+        "Select"
+      ],
+      "locStart": 73,
+      "locEnd": 85,
+      "filePath": "src/stories/select.stories.tsx",
+      "namedExport": "SmallSize",
+      "meta": {}
+    },
+    "components--select--with-label": {
+      "name": "With label",
+      "levels": [
+        "Components",
+        "Select"
+      ],
+      "locStart": 32,
+      "locEnd": 47,
+      "filePath": "src/stories/select.stories.tsx",
+      "namedExport": "WithLabel",
+      "meta": {}
+    },
+    "components--separator--horizontal": {
+      "name": "Horizontal",
+      "levels": [
+        "Components",
+        "Separator"
+      ],
+      "locStart": 6,
+      "locEnd": 23,
+      "filePath": "src/stories/separator.stories.tsx",
+      "namedExport": "Horizontal",
+      "meta": {}
+    },
+    "components--separator--vertical": {
+      "name": "Vertical",
+      "levels": [
+        "Components",
+        "Separator"
+      ],
+      "locStart": 25,
+      "locEnd": 33,
+      "filePath": "src/stories/separator.stories.tsx",
+      "namedExport": "Vertical",
+      "meta": {}
+    },
+    "components--sheet--left": {
+      "name": "Left",
+      "levels": [
+        "Components",
+        "Sheet"
+      ],
+      "locStart": 37,
+      "locEnd": 53,
+      "filePath": "src/stories/sheet.stories.tsx",
+      "namedExport": "Left",
+      "meta": {}
+    },
+    "components--sheet--right": {
+      "name": "Right",
+      "levels": [
+        "Components",
+        "Sheet"
+      ],
+      "locStart": 14,
+      "locEnd": 35,
+      "filePath": "src/stories/sheet.stories.tsx",
+      "namedExport": "Right",
+      "meta": {}
+    },
+    "components--skeleton--card-loading": {
+      "name": "Card loading",
+      "levels": [
+        "Components",
+        "Skeleton"
+      ],
+      "locStart": 14,
+      "locEnd": 22,
+      "filePath": "src/stories/skeleton.stories.tsx",
+      "namedExport": "CardLoading",
+      "meta": {}
+    },
+    "components--skeleton--default": {
+      "name": "Default",
+      "levels": [
+        "Components",
+        "Skeleton"
+      ],
+      "locStart": 6,
+      "locEnd": 12,
+      "filePath": "src/stories/skeleton.stories.tsx",
+      "namedExport": "Default",
+      "meta": {}
+    },
+    "components--skeleton--table-loading": {
+      "name": "Table loading",
+      "levels": [
+        "Components",
+        "Skeleton"
+      ],
+      "locStart": 24,
+      "locEnd": 34,
+      "filePath": "src/stories/skeleton.stories.tsx",
+      "namedExport": "TableLoading",
+      "meta": {}
+    },
+    "components--statusbadge--all-statuses": {
+      "name": "All statuses",
+      "levels": [
+        "Components",
+        "Statusbadge"
+      ],
+      "locStart": 15,
+      "locEnd": 26,
+      "filePath": "src/stories/status-badge.stories.tsx",
+      "namedExport": "AllStatuses",
+      "meta": {}
+    },
+    "components--statusbadge--no-icon": {
+      "name": "No icon",
+      "levels": [
+        "Components",
+        "Statusbadge"
+      ],
+      "locStart": 28,
+      "locEnd": 39,
+      "filePath": "src/stories/status-badge.stories.tsx",
+      "namedExport": "NoIcon",
+      "meta": {}
+    },
+    "components--statusbadge--single-status": {
+      "name": "Single status",
+      "levels": [
+        "Components",
+        "Statusbadge"
+      ],
+      "locStart": 41,
+      "locEnd": 43,
+      "filePath": "src/stories/status-badge.stories.tsx",
+      "namedExport": "SingleStatus",
+      "meta": {}
+    },
+    "components--switch--controlled": {
+      "name": "Controlled",
+      "levels": [
+        "Components",
+        "Switch"
+      ],
+      "locStart": 17,
+      "locEnd": 25,
+      "filePath": "src/stories/switch.stories.tsx",
+      "namedExport": "Controlled",
+      "meta": {}
+    },
+    "components--switch--default": {
+      "name": "Default",
+      "levels": [
+        "Components",
+        "Switch"
+      ],
+      "locStart": 8,
+      "locEnd": 8,
+      "filePath": "src/stories/switch.stories.tsx",
+      "namedExport": "Default",
+      "meta": {}
+    },
+    "components--switch--disabled": {
+      "name": "Disabled",
+      "levels": [
+        "Components",
+        "Switch"
+      ],
+      "locStart": 34,
+      "locEnd": 39,
+      "filePath": "src/stories/switch.stories.tsx",
+      "namedExport": "Disabled",
+      "meta": {}
+    },
+    "components--switch--small-size": {
+      "name": "Small size",
+      "levels": [
+        "Components",
+        "Switch"
+      ],
+      "locStart": 27,
+      "locEnd": 32,
+      "filePath": "src/stories/switch.stories.tsx",
+      "namedExport": "SmallSize",
+      "meta": {}
+    },
+    "components--switch--with-label": {
+      "name": "With label",
+      "levels": [
+        "Components",
+        "Switch"
+      ],
+      "locStart": 10,
+      "locEnd": 15,
+      "filePath": "src/stories/switch.stories.tsx",
+      "namedExport": "WithLabel",
+      "meta": {}
+    },
+    "components--table--default": {
+      "name": "Default",
+      "levels": [
+        "Components",
+        "Table"
+      ],
+      "locStart": 22,
+      "locEnd": 44,
+      "filePath": "src/stories/table.stories.tsx",
+      "namedExport": "Default",
+      "meta": {}
+    },
+    "components--tabs--default": {
+      "name": "Default",
+      "levels": [
+        "Components",
+        "Tabs"
+      ],
+      "locStart": 6,
+      "locEnd": 29,
+      "filePath": "src/stories/tabs.stories.tsx",
+      "namedExport": "Default",
+      "meta": {}
+    },
+    "components--tabs--line-variant": {
+      "name": "Line variant",
+      "levels": [
+        "Components",
+        "Tabs"
+      ],
+      "locStart": 31,
+      "locEnd": 42,
+      "filePath": "src/stories/tabs.stories.tsx",
+      "namedExport": "LineVariant",
+      "meta": {}
+    },
+    "components--textarea--default": {
+      "name": "Default",
+      "levels": [
+        "Components",
+        "Textarea"
+      ],
+      "locStart": 7,
+      "locEnd": 7,
+      "filePath": "src/stories/textarea.stories.tsx",
+      "namedExport": "Default",
+      "meta": {}
+    },
+    "components--textarea--disabled": {
+      "name": "Disabled",
+      "levels": [
+        "Components",
+        "Textarea"
+      ],
+      "locStart": 16,
+      "locEnd": 18,
+      "filePath": "src/stories/textarea.stories.tsx",
+      "namedExport": "Disabled",
+      "meta": {}
+    },
+    "components--textarea--with-label": {
+      "name": "With label",
+      "levels": [
+        "Components",
+        "Textarea"
+      ],
+      "locStart": 9,
+      "locEnd": 14,
+      "filePath": "src/stories/textarea.stories.tsx",
+      "namedExport": "WithLabel",
+      "meta": {}
+    },
+    "components--themetoggle--default": {
+      "name": "Default",
+      "levels": [
+        "Components",
+        "Themetoggle"
+      ],
+      "locStart": 7,
+      "locEnd": 16,
+      "filePath": "src/stories/theme-toggle.stories.tsx",
+      "namedExport": "Default",
+      "meta": {}
+    },
+    "components--themetoggle--styled": {
+      "name": "Styled",
+      "levels": [
+        "Components",
+        "Themetoggle"
+      ],
+      "locStart": 18,
+      "locEnd": 27,
+      "filePath": "src/stories/theme-toggle.stories.tsx",
+      "namedExport": "Styled",
+      "meta": {}
+    },
+    "design-tokens--border-radius": {
+      "name": "Border radius",
+      "levels": [
+        "Design tokens"
+      ],
+      "locStart": 125,
+      "locEnd": 141,
+      "filePath": "src/stories/tokens.stories.tsx",
+      "namedExport": "BorderRadius",
+      "meta": {}
+    },
+    "design-tokens--brand-colors": {
+      "name": "Brand colors",
+      "levels": [
+        "Design tokens"
+      ],
+      "locStart": 101,
+      "locEnd": 112,
+      "filePath": "src/stories/tokens.stories.tsx",
+      "namedExport": "BrandColors",
+      "meta": {}
+    },
+    "design-tokens--semantic-colors": {
+      "name": "Semantic colors",
+      "levels": [
+        "Design tokens"
+      ],
+      "locStart": 54,
+      "locEnd": 68,
+      "filePath": "src/stories/tokens.stories.tsx",
+      "namedExport": "SemanticColors",
+      "meta": {}
+    },
+    "design-tokens--spacing": {
+      "name": "Spacing",
+      "levels": [
+        "Design tokens"
+      ],
+      "locStart": 147,
+      "locEnd": 170,
+      "filePath": "src/stories/tokens.stories.tsx",
+      "namedExport": "Spacing",
+      "meta": {}
+    },
+    "design-tokens--status-colors": {
+      "name": "Status colors",
+      "levels": [
+        "Design tokens"
+      ],
+      "locStart": 70,
+      "locEnd": 79,
+      "filePath": "src/stories/tokens.stories.tsx",
+      "namedExport": "StatusColors",
+      "meta": {}
+    },
+    "design-tokens--zinc-scale": {
+      "name": "Zinc scale",
+      "levels": [
+        "Design tokens"
+      ],
+      "locStart": 81,
+      "locEnd": 99,
+      "filePath": "src/stories/tokens.stories.tsx",
+      "namedExport": "ZincScale",
+      "meta": {}
+    },
+    "components--tooltip--default": {
+      "name": "Default",
+      "levels": [
+        "Components",
+        "Tooltip"
+      ],
+      "locStart": 13,
+      "locEnd": 24,
+      "filePath": "src/stories/tooltip.stories.tsx",
+      "namedExport": "Default",
+      "meta": {}
+    },
+    "components--tooltip--on-icon": {
+      "name": "On icon",
+      "levels": [
+        "Components",
+        "Tooltip"
+      ],
+      "locStart": 26,
+      "locEnd": 37,
+      "filePath": "src/stories/tooltip.stories.tsx",
+      "namedExport": "OnIcon",
+      "meta": {}
+    },
+    "components--tooltip--sides": {
+      "name": "Sides",
+      "levels": [
+        "Components",
+        "Tooltip"
+      ],
+      "locStart": 39,
+      "locEnd": 52,
+      "filePath": "src/stories/tooltip.stories.tsx",
+      "namedExport": "Sides",
+      "meta": {}
+    }
+  }
+}
