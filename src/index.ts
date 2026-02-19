@@ -137,6 +137,14 @@ export {
   SkeletonIssueList,
   SkeletonProjectCard,
   SkeletonProjectGrid,
+  SkeletonRepoListItem,
+  SkeletonRepoList,
+  SkeletonRepoCard,
+  SkeletonRepoGrid,
+  SkeletonRepoHeader,
+  SkeletonFileTree,
+  SkeletonCodePage,
+  SkeletonCommitList,
 } from "./components/skeleton-variants"
 
 export { Switch } from "./components/switch"
