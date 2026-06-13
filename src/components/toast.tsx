@@ -62,13 +62,17 @@ function Toast({
   VariantProps<typeof toastVariants>) {
   const Icon = variantIcons[variant || "default"]
 
+  // Errors interrupt the screen reader (assertive); everything else is polite.
+  const type = variant === "error" ? "foreground" : "background"
+
   return (
     <ToastPrimitives.Root
       data-slot="toast"
+      type={type}
       className={cn(toastVariants({ variant }), className)}
       {...props}
     >
-      <Icon className="h-4 w-4 shrink-0" />
+      <Icon className="h-4 w-4 shrink-0" aria-hidden="true" />
       <div className="flex-1">{children}</div>
     </ToastPrimitives.Root>
   )
@@ -97,8 +101,9 @@ function ToastClose({
   return (
     <ToastPrimitives.Close
       data-slot="toast-close"
+      aria-label="Close notification"
       className={cn(
-        "absolute right-1 top-1 rounded-md p-1 text-foreground/50 opacity-0 transition-opacity hover:text-foreground focus:opacity-100 focus:outline-none group-hover:opacity-100",
+        "absolute right-1 top-1 rounded-md p-1 text-foreground/50 opacity-0 transition-opacity hover:text-foreground focus-visible:opacity-100 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring group-hover:opacity-100",
         className
       )}
       toast-close=""

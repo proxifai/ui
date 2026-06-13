@@ -190,3 +190,34 @@ export {
 export { Toaster } from "./components/toaster"
 export { useToast, toast } from "./hooks/use-toast"
 export type { ToasterToast, ToastVariant } from "./hooks/use-toast"
+
+// Charts
+export {
+  AreaChart,
+  BarChart,
+  LineChart,
+  DonutChart,
+  Sparkline,
+  Scorecard,
+  ChartLegend,
+  ChartTooltipContent,
+  CHART_PALETTE,
+  CHART_DEFAULTS,
+  resolveColor,
+} from "./components/chart"
+export type {
+  AreaChartProps,
+  BarChartProps,
+  LineChartProps,
+  DonutChartProps,
+  DonutDatum,
+  SparklineProps,
+  ScorecardProps,
+  ChartLegendProps,
+  ChartTooltipContentProps,
+  ChartColor,
+  ChartColorName,
+  ChartCommonProps,
+  ChartDatum,
+  ChartSeries,
+} from "./components/chart"

@@ -221,6 +221,90 @@
       "namedExport": "WithAction",
       "meta": {}
     },
+    "components--chart--area-ideal-vs-actual": {
+      "name": "Area ideal vs actual",
+      "levels": [
+        "Components",
+        "Chart"
+      ],
+      "locStart": 85,
+      "locEnd": 103,
+      "filePath": "src/stories/chart.stories.tsx",
+      "namedExport": "AreaIdealVsActual",
+      "meta": {}
+    },
+    "components--chart--area-stacked": {
+      "name": "Area stacked",
+      "levels": [
+        "Components",
+        "Chart"
+      ],
+      "locStart": 64,
+      "locEnd": 83,
+      "filePath": "src/stories/chart.stories.tsx",
+      "namedExport": "AreaStacked",
+      "meta": {}
+    },
+    "components--chart--bar-stacked": {
+      "name": "Bar stacked",
+      "levels": [
+        "Components",
+        "Chart"
+      ],
+      "locStart": 105,
+      "locEnd": 125,
+      "filePath": "src/stories/chart.stories.tsx",
+      "namedExport": "BarStacked",
+      "meta": {}
+    },
+    "components--chart--donut": {
+      "name": "Donut",
+      "levels": [
+        "Components",
+        "Chart"
+      ],
+      "locStart": 149,
+      "locEnd": 182,
+      "filePath": "src/stories/chart.stories.tsx",
+      "namedExport": "Donut",
+      "meta": {}
+    },
+    "components--chart--lines": {
+      "name": "Lines",
+      "levels": [
+        "Components",
+        "Chart"
+      ],
+      "locStart": 127,
+      "locEnd": 147,
+      "filePath": "src/stories/chart.stories.tsx",
+      "namedExport": "Lines",
+      "meta": {}
+    },
+    "components--chart--scorecards": {
+      "name": "Scorecards",
+      "levels": [
+        "Components",
+        "Chart"
+      ],
+      "locStart": 203,
+      "locEnd": 210,
+      "filePath": "src/stories/chart.stories.tsx",
+      "namedExport": "Scorecards",
+      "meta": {}
+    },
+    "components--chart--sparkline-demo": {
+      "name": "Sparkline demo",
+      "levels": [
+        "Components",
+        "Chart"
+      ],
+      "locStart": 184,
+      "locEnd": 201,
+      "filePath": "src/stories/chart.stories.tsx",
+      "namedExport": "SparklineDemo",
+      "meta": {}
+    },
     "navigation--collapsiblesection--default": {
       "name": "Default",
       "levels": [
@@ -299,8 +383,8 @@
         "Components",
         "Dropdownmenu"
       ],
-      "locStart": 22,
-      "locEnd": 39,
+      "locStart": 20,
+      "locEnd": 37,
       "filePath": "src/stories/dropdown-menu.stories.tsx",
       "namedExport": "Default",
       "meta": {}
@@ -311,8 +395,8 @@
         "Components",
         "Dropdownmenu"
       ],
-      "locStart": 41,
-      "locEnd": 68,
+      "locStart": 39,
+      "locEnd": 66,
       "filePath": "src/stories/dropdown-menu.stories.tsx",
       "namedExport": "WithCheckboxes",
       "meta": {}
@@ -323,8 +407,8 @@
         "Components",
         "Dropdownmenu"
       ],
-      "locStart": 70,
-      "locEnd": 88,
+      "locStart": 68,
+      "locEnd": 86,
       "filePath": "src/stories/dropdown-menu.stories.tsx",
       "namedExport": "WithSubmenu",
       "meta": {}
